@@ -1,7 +1,7 @@
 # Following Eyes
 
 ## This is a simple program where the eyes on the screen follow your mouse movement. 
-## Click the following link to view the program in your browser: https://github.io/cyc-lopes/Following-Eyes
+## Click this link to view the program in your browser: https://cyc-lopes.github.io/Following-Eyes/
 
 Some future improvements to this program include:
 
