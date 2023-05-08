@@ -2,6 +2,8 @@
 
 ## This is a simple program where the eyes on the screen follow your mouse movement. 
 
+In order to play, simply move your mouse around on the screen and watch the eyes follow your every move.
+
 Some future improvements to this program include:
 
 - More complex eyes
