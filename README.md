@@ -2,7 +2,7 @@
 
 ## This is a simple program where the eyes on the screen follow your mouse movement. 
 
-In order to play, simply move your mouse around on the screen and watch the eyes follow your every move.
+In order to run this program on your machine, you will need to click the green "CODE" button above the files, download the zip, extract all the files, and drag the HTML file onto your browser in a new tab. Once it's loaded, just move your mouse around on the screen and watch the eyes follow your every move.
 
 Some future improvements to this program include:
 
